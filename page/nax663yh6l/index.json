@@ -1,0 +1,40 @@
+{
+  "id": "nax663yh6l",
+  "name": {
+    "tr": "Ofisler",
+    "en": "Offices",
+    "ar": "المكاتب"
+  },
+  "description": {
+    "tr": "İstanbul, Bodrum ve Çeşme ofislerimiz ve çalışma saatleri.",
+    "en": "Our Istanbul, Bodrum and Cesme offices and opening hours.",
+    "ar": "مكاتبنا في إسطنبول وبودروم وتشيشمه وساعات العمل."
+  },
+  "keyword": {
+    "tr": "ofis, adres",
+    "en": "offices, address",
+    "ar": "مكاتب، عنوان"
+  },
+  "path": "ofislerimiz",
+  "icon": "apartment",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "t5ct01",
+      "t5mp01"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Ofisler",
+    "en": "Offices",
+    "ar": "المكاتب"
+  },
+  "date": "2026-10-31T14:54:51.048Z",
+  "update": "2026-10-31T14:57:58.857Z"
+}

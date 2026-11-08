@@ -1,0 +1,29 @@
+{
+  "name": "Kuzey Yaka",
+  "short_name": "Kuzey Yaka",
+  "description": "Kuzey Yaka Gayrimenkul: seçkin satılık ve kiralık konut, villa, arsa ve işyeri portföyü; her ilanda yetki belgesi numarası. (Demo site)",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#C98A4B",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

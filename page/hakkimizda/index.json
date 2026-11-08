@@ -1,0 +1,44 @@
+{
+  "name": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<h2>Hakkımızda</h2><p>Kuzey Yaka Gayrimenkul, İstanbul, Bodrum ve Çeşme ofisleriyle seçkin konut, villa, arsa ve işyeri alım-satım-kiralama danışmanlığı sunan kurgusal bir demo firmadır. Her ilanda yetki belgesi numarası görünür; fiyat, metrekare ve konum bilgileri açıkça yazılır.</p>",
+    "en": "<h2>About us</h2><p>Kuzey Yaka Real Estate is a fictional demo firm offering advice on buying, selling and renting curated homes, villas, plots and commercial units from its Istanbul, Bodrum and Cesme offices. Every listing shows its authorization number; price, area and location are stated clearly.</p>",
+    "ar": "<h2>من نحن</h2><p>كوزي ياكا العقارية شركة تجريبية افتراضية تقدّم استشارات شراء وبيع وتأجير مساكن وفلل وأراضٍ ووحدات تجارية مختارة من مكاتبها في إسطنبول وبودروم وتشيشمه. يظهر رقم شهادة التفويض في كل إعلان، وتُذكر الأسعار والمساحات والمواقع بوضوح.</p>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "t5in01",
+      "klb6af"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "info",
+  "title": {
+    "tr": "Hakkımızda",
+    "en": "About",
+    "ar": "من نحن"
+  },
+  "description": {
+    "tr": "Kuzey Yaka Gayrimenkul hakkında.",
+    "en": "About Kuzey Yaka Real Estate.",
+    "ar": "نبذة عن كوزي ياكا العقارية."
+  },
+  "keyword": {
+    "tr": "hakkımızda, gayrimenkul",
+    "en": "about, real estate",
+    "ar": "من نحن، عقارات"
+  },
+  "update": "2026-10-31T14:57:58.861Z",
+  "date": "2026-05-19"
+}
