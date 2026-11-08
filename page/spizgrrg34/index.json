@@ -1,0 +1,40 @@
+{
+  "id": "spizgrrg34",
+  "name": {
+    "tr": "Değerleme",
+    "en": "Valuation",
+    "ar": "التقييم"
+  },
+  "description": {
+    "tr": "Mülkünüz için değerleme görüşmesi talebi (demo).",
+    "en": "A valuation meeting request for your property (demo).",
+    "ar": "طلب اجتماع تقييم لعقارك (تجريبي)."
+  },
+  "keyword": {
+    "tr": "değerleme, ekspertiz, fiyat",
+    "en": "valuation, appraisal, price",
+    "ar": "تقييم، خبرة، سعر"
+  },
+  "path": "degerleme",
+  "icon": "calculate",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "l3xotv",
+      "ekhyd7"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Değerleme",
+    "en": "Valuation",
+    "ar": "التقييم"
+  },
+  "date": "2026-10-31T14:54:51.044Z",
+  "update": "2026-10-31T14:57:58.855Z"
+}

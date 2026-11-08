@@ -1,0 +1,58 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kuzey Yaka Gayrimenkul: seçkin satılık ve kiralık konut, villa, arsa ve işyeri portföyü; her ilanda yetki belgesi numarası. (Demo site)",
+    "en": "Kuzey Yaka Real Estate: a curated portfolio of homes, villas, plots and commercial units for sale and rent, with an authorization number on every listing. (Demo site)",
+    "ar": "كوزي ياكا العقارية: محفظة مختارة من المساكن والفلل والأراضي والوحدات التجارية للبيع والإيجار، مع رقم شهادة التفويض في كل إعلان. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "emlak, lüks konut, satılık, kiralık, villa, yetki belgesi",
+    "en": "real estate, luxury homes, for sale, for rent, villa, authorization number",
+    "ar": "عقارات، مساكن فاخرة، للبيع، للإيجار، فيلا، شهادة تفويض"
+  },
+  "category": "Kurumsal",
+  "name": "Kuzey Yaka",
+  "domain": "emlak-2.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "icon": "icon.png",
+  "theme_color": "#C98A4B",
+  "phone": "+90 216 000 00 21",
+  "email": "portfoy@kuzeyyaka.example",
+  "publishMode": "static",
+  "colorScheme": "auto",
+  "seo": {
+    "noindex": true
+  },
+  "font": {
+    "body": "noto-sans",
+    "heading": "montserrat",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "2px",
+    "--mx-radius-md": "4px",
+    "--mx-radius-lg": "6px",
+    "--mx-radius-xl": "8px",
+    "--mx-shadow-md": "0 24px 60px rgba(0,0,0,.4)",
+    "--mx-dur": "280ms"
+  }
+}
