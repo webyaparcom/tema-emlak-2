@@ -26,7 +26,7 @@
     "8vnrdv"
   ],
   "headtop": "",
-  "headbottom": "<style>@media (min-width:769px){[class$=\"-ilan-panel\"]{display:block}}[id$=\"-ilan-nushkw-panel\"]{display:none!important}[class$=\"-ilan-layout\"]:has([id$=\"-ilan-nushkw-panel\"]){grid-template-columns:minmax(0,1fr)}[class$=\"-ilan\"]:has([id$=\"-ilan-nushkw-panel\"]) [class$=\"-ilan-toggle\"]{display:none!important}</style>",
+  "headbottom": "<style>@media (min-width:769px){[class$=\"-ilan-panel\"]{display:block}}[id$=\"-ilan-nushkw-panel\"]{display:none!important}[class$=\"-ilan-layout\"]:has([id$=\"-ilan-nushkw-panel\"]){grid-template-columns:minmax(0,1fr)}[class$=\"-ilan\"]:has([id$=\"-ilan-nushkw-panel\"]) [class$=\"-ilan-toggle\"]{display:none!important}</style><style id=\"wy-m9-kutulu\">#header [class*=\"-m9--kutulu\"] [class*=\"-m9-bar\"] a[class$=\"-m9-oge\"][aria-current=\"page\"]{color:var(--mx-site-primary-contrast, #ffffff)}</style>",
   "colors": {
     "lite": [
       {
