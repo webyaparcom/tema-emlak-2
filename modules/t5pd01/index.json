@@ -12,7 +12,7 @@
   },
   "category": "page",
   "description": "Sayfa hero banner ve kategori başlık modülü. Kurumsal sayfalara özel tasarım, arka plan görseli ve başlık overlay sunar. 9 farklı projede kullanılır: üretim, eğitim, inşaat, muhasebe, ajans ve hizmet sektörlerinde. Aktif menü renklendirme entegrasyonu, kategori bazlı görsel sistemi ve responsive font boyutu ayarı içerir.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "web",
   "veri": {
     "statik": true,
